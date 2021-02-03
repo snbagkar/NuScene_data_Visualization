@@ -11,7 +11,8 @@ This project enables to visualize NuScene data such as Point Cloud data for Rada
   - python3
   - opencv
  
-# Steps
+# Setup Nuscenes develop kit locally  
+You may need to install jupyter notebook for Visualization locally
 Install Juypter Notebook 
 ```sh
 $ pip3 install notebook
