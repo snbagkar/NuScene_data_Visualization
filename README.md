@@ -36,7 +36,7 @@ Input the correct token of the data for visualization
 # Visualize Lidar PCD from the dataset using python OpenCV
 The Lidar PCD is a nx4 matric that stores x y z intensity
 
-![Visualizing Lidar PCD]()
+![Visualizing Lidar PCD](https://github.com/snbagkar/NuScene_data_Visualization/blob/main/Lidarvisualize.JPG)
 
 You can colorize the points based on the following 3 Parameters
 - Height of the points
@@ -46,13 +46,13 @@ You can colorize the points based on the following 3 Parameters
 We will visualize each one of them below
 - Heights of the points
 To get this plot run the file lidarpcd_height
-![Visualizing Lidar PCD_colorize_height](https://github.com/ankitcivic/Visualize_NuScene_dataset/blob/main/images/lidarpcd_height.jpg)
+![Visualizing Lidar PCD_colorize_height](https://github.com/snbagkar/NuScene_data_Visualization/blob/main/byHeight.JPG)
 - Intensity of the points
 To get this plot run the file lidarpcd_intensity
-![Visualizing Lidar PCD_colorize_intensity](https://github.com/ankitcivic/Visualize_NuScene_dataset/blob/main/images/lidarpcd_intensity.jpg)
+![Visualizing Lidar PCD_colorize_intensity](https://github.com/snbagkar/NuScene_data_Visualization/blob/main/byintensities.JPG)
 - Semantic label of the points
 To get this plot run the file lidarpcd_semantic
-![Visualizing Lidar PCD_colorize_semantic](https://github.com/ankitcivic/Visualize_NuScene_dataset/blob/main/images/lidarpcd_semantic.jpg)
+![Visualizing Lidar PCD_colorize_semantic](https://github.com/snbagkar/NuScene_data_Visualization/blob/main/byLabel.JPG)
 
 # Visualize Radar PCD from the dataset
 The Radar PCD is a nx18 matric that stores x y z dyn_prop id rcs vx vy vx_comp vy_comp is_quality_valid ambig_state x_rms y_rms invalid_state pdh0 vx_rms vy_rms <br />
