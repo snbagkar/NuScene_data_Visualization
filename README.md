@@ -26,17 +26,17 @@ Launch Jupyternotebook
 $ python -m notebook
 ```
 
-# Visualize a random image from the dataset
-run the file visualize_random_image and give the correct path of sample folder which you want to visualize <br />
-The algorithm will select a random file and display a new image eachtime you run the code
+# Visualize dataset using NuScenes dev-kit
+run the file Visualize_data_using_NuScenes sile and give the correct path of sample folder which you want to visualize <br />
+Input the correct token of the data for visualization
 ![Visualizing a random image from CAM_FRONT](https://github.com/ankitcivic/Visualize_NuScene_dataset/blob/main/images/visualize_image.jpg)
 
 ![Visualizing a random image from CAM_FRONT](https://github.com/ankitcivic/Visualize_NuScene_dataset/blob/main/images/visualize_image2.jpg)
 
-# Visualize Lidar PCD from the dataset
+# Visualize Lidar PCD from the dataset using python OpenCV
 The Lidar PCD is a nx4 matric that stores x y z intensity
 
-![Visualizing Lidar PCD](https://github.com/ankitcivic/Visualize_NuScene_dataset/blob/main/images/visualize_lidarpcd.jpg)
+![Visualizing Lidar PCD]()
 
 You can colorize the points based on the following 3 Parameters
 - Height of the points
