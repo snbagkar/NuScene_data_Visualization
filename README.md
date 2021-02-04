@@ -74,7 +74,7 @@ for this we will first calculate the resultant velocity of the point
 For this we will use the NuScene Devkit. <br /> Run the file Plot_PCD_to_Image.
 
 -Ploting Lidar PCD to an image
-![Visualizing](https://github.com/ankitcivic/Visualize_NuScene_dataset/blob/main/images/lidar_image.jpg)
+![Visualizing](https://github.com/snbagkar/NuScene_data_Visualization/blob/main/LIDARprojection.JPG)
 
 -Ploting Radar PCD to an image
-![Visualizing](https://github.com/ankitcivic/Visualize_NuScene_dataset/blob/main/images/lidar_image.jpg)
+![Visualizing](https://github.com/snbagkar/NuScene_data_Visualization/blob/main/RADARprojection.JPG)
