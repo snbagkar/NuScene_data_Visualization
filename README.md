@@ -29,9 +29,8 @@ $ python -m notebook
 # Visualize dataset using NuScenes dev-kit
 run the file Visualize_data_using_NuScenes sile and give the correct path of sample folder which you want to visualize <br />
 Input the correct token of the data for visualization
-![Visualizing a random image from CAM_FRONT](https://github.com/ankitcivic/Visualize_NuScene_dataset/blob/main/images/visualize_image.jpg)
+![Visualizing data using dev-kit](https://github.com/snbagkar/NuScene_data_Visualization/blob/main/devkitVisualize.JPG)
 
-![Visualizing a random image from CAM_FRONT](https://github.com/ankitcivic/Visualize_NuScene_dataset/blob/main/images/visualize_image2.jpg)
 
 # Visualize Lidar PCD from the dataset using python OpenCV
 The Lidar PCD is a nx4 matric that stores x y z intensity
